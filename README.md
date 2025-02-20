@@ -11,14 +11,14 @@ It includes supporting figures and materials referenced in the paper.
 ## Repository Structure
 
 ```plaintext
-📄 README.md # this file
-📄 Learn-by-Doing Materials.pdf
-📄 Pre- & Post-Test Design.pdf
-📄 Proportion of Agree & Disagree in Post Survey.pdf
 📂 figures/
   ├── fig1-slideitright-ui-anony.jpg
   ├── fig2-workflow.jpg
   ├── fig3-different-feedback-conditions-anony.jpg
   ├── fig4a-learning-gain.png
   ├── fig4b-pre-post.png
+📄 Learn-by-Doing Materials.pdf
+📄 Pre- & Post-Test Design.pdf
+📄 Proportion of Agree & Disagree in Post Survey.pdf
+📄 README.md # this file
 ```
