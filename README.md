@@ -17,6 +17,7 @@ It includes supporting figures and materials referenced in the paper.
   ├── fig3-different-feedback-conditions-anony.jpg
   ├── fig4a-learning-gain.png
   ├── fig4b-pre-post.png
+📄 Prompt for Feedback Generation.pdf
 📄 Learn-by-Doing Materials.pdf
 📄 Pre- & Post-Test Design.pdf
 📄 Proportion of Agree & Disagree in Post Survey.pdf
